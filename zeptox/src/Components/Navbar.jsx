@@ -13,7 +13,7 @@ function Navbar() {
                 </ul>
                 <div className="navbar-right">
                     <Link to='/SignUp' ><button className='btn btn-outline-primary'>SignUp</button></Link>
-                    <Link to={'/login'} ><button className='btn btn-outline-success'>LogIn</button></Link>
+                    <Link to={'/LogIn'} ><button className='btn btn-outline-success'>LogIn</button></Link>
                 </div>
             </div>
         </nav>
